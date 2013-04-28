@@ -1,0 +1,9 @@
+About
+=====
+This is my SVG-FONTGENERATOR.
+
+Disclaimer
+==========
+File system SHOUD be case-sensitive and case-preserving(Windows sucks)
+Require sed, bash, Imagemegick. Inkscape for editing.
+
